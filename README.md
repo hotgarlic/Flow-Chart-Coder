@@ -11,6 +11,7 @@ Sorry, this project was developed for Chinese students, I will create English Ve
 
 ![image](https://github.com/hotgarlic/Flow-Chart-Coder/blob/master/%E7%9C%8B%E7%97%85.gif)
 
+![image](https://github.com/hotgarlic/Flow-Chart-Coder/blob/master/%E7%9C%8B%E7%97%85.gif)
 每一个任务框，都内置了一个判断菜单，所以每个任务的执行都是有前提的，这样的设计，其实也实现了所有的编程语句的功能
 比如说，循环，判断，并行，等等。
 
