@@ -9,7 +9,7 @@ Sorry, this project was developed for Chinese students, I will create English Ve
 比如，没有判断框，但是增加了变量框，所以制作的过程其实也相当于编程的过程，只不过这里只涉及到极少的编程知识。
 我使用了虚线，来表示一个任务完成后可能的流动方向。这其实和传统的菱形（判断）框类似，但是更加好用和简洁。
 
-![image]https://github.com/hotgarlic/Flow-Chart-Coder/blob/master/%E7%9C%8B%E7%97%85.gif
+![image](https://github.com/hotgarlic/Flow-Chart-Coder/blob/master/%E7%9C%8B%E7%97%85.gif)
 
 每一个任务框，都内置了一个判断菜单，所以每个任务的执行都是有前提的，这样的设计，其实也实现了所有的编程语句的功能
 比如说，循环，判断，并行，等等。
