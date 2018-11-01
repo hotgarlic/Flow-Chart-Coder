@@ -1,7 +1,7 @@
 # Flow-Chart-Coder
-You can create an flow chart which can be played as an animation by this app. 
+You can create a flow chart which can demonstrate as an animation by this app. 
 Sorry, this project was developed for Chinese students, I will create English Version include documents later.
-你可以制作一种可以播放动画的流程图。
+你可以利用这个软件制作一种有动画效果的流程图。
 
 静态的流程图有一些缺陷，比如说不能描述同时或者任务的顺序，也不能描述任务执行的主体。
 使用这个软件制作的流程图，将是和以往非常不同的形式。
