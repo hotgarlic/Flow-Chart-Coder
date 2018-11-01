@@ -14,3 +14,5 @@ Sorry, this project was developed for Chinese students, I will create English Ve
 
 请牢记这样一句话，“下一步做什么”，这将是你使用这个软件的核心要素。
 具体请查看文档。
+
+本软件是用cocos creator 1.9.1开发的，脚本语言用的是javascript
